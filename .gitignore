@@ -221,3 +221,8 @@ MNIST/
 train/
 testset/
 *.pth
+checkpoints*/
+lightning_logs/
+*.jpg
+*.jpeg
+*.bmp
