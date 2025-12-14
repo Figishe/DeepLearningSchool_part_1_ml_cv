@@ -226,3 +226,9 @@ lightning_logs/
 *.jpg
 *.jpeg
 *.bmp
+*.csv
+*.tsv
+*.pth
+*.rar
+*.zip
+*.tar.gz
