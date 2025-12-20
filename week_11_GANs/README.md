@@ -35,12 +35,16 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Homework/homework_8_gans_part_1.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Homework/WGAN_GP_hw_v2.ipynb)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Homework/homework_8_gans_part_2.ipynb)
+
+**Обратите внимание**, вы можете выбрать версию ноутбука либо с WGAN, либо с WGAN-GP
 
 
 Данное домашнее задание состоит из двух основных частей:
 
-1. Обучение GAN модели
+1. Обучение GAN модели или обучение WGAN-GP 
 
 2. Решение задачи StyleCLIP с помощью оптимизации
 
