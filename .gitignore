@@ -225,6 +225,7 @@ checkpoints*/
 lightning_logs/
 *.jpg
 *.jpeg
+*.png
 *.bmp
 *.csv
 *.tsv
