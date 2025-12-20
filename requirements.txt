@@ -1,0 +1,16 @@
+numpy
+lightning 
+pillow 
+jupyter 
+tqdm 
+torch
+torchinfo
+torchvision 
+matplotlib 
+seaborn
+pathlib
+pandas
+scikit-image
+scikit-learn
+opencv-python
+tensorboard
