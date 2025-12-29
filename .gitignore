@@ -226,6 +226,7 @@ lightning_logs/
 *.jpg
 *.jpeg
 *.png
+*.png:*
 *.bmp
 *.csv
 *.tsv
